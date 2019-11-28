@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<policys>
+    <homeOwners>
+        <polInsured>Palmer Joss</polInsured>
+        <polNumber>HO32547</polNumber>
+        <polOwner>2065422</polOwner>
+        <polPremium>2758.4</polPremium>
+        <homeContents>9</homeContents>
+        <homeDeductible>0.1</homeDeductible>
+        <homePropAddress>2020 Buenos Sonidos</homePropAddress>
+        <homePropType>3</homePropType>
+        <homeStructure>90</homeStructure>
+        <umbrella>false</umbrella>
+    </homeOwners>
+    <homeOwners>
+        <polInsured>Palmer Joss</polInsured>
+        <polNumber>HO44583</polNumber>
+        <polOwner>2065422</polOwner>
+        <polPremium>8325.54</polPremium>
+        <homeContents>30</homeContents>
+        <homeDeductible>0.025</homeDeductible>
+        <homePropAddress>"2124 Vega Unit 2D"""</homePropAddress>
+        <homePropType>2</homePropType>
+        <homeStructure>400</homeStructure>
+        <umbrella>false</umbrella>
+    </homeOwners>
+    <homeOwners>
+        <polInsured>SE Haddon</polInsured>
+        <polNumber>HO77324</polNumber>
+        <polOwner>3000548</polOwner>
+        <polPremium>9835.24</polPremium>
+        <homeContents>250</homeContents>
+        <homeDeductible>0.1</homeDeductible>
+        <homePropAddress>"Atlantis Unit #1023"""</homePropAddress>
+        <homePropType>4</homePropType>
+        <homeStructure>2500</homeStructure>
+        <umbrella>true</umbrella>
+    </homeOwners>
+    <homeOwners>
+        <polInsured>SE Haddon</polInsured>
+        <polNumber>HO63054</polNumber>
+        <polOwner>3000548</polOwner>
+        <polPremium>12087.96</polPremium>
+        <homeContents>500</homeContents>
+        <homeDeductible>0.1</homeDeductible>
+        <homePropAddress>ISS Room 6</homePropAddress>
+        <homePropType>5</homePropType>
+        <homeStructure>5000</homeStructure>
+        <umbrella>true</umbrella>
+    </homeOwners>
+    <homeOwners>
+        <polInsured>David Drumlin</polInsured>
+        <polNumber>HO64348</polNumber>
+        <polOwner>2344517</polOwner>
+        <polPremium>10354.65</polPremium>
+        <homeContents>50</homeContents>
+        <homeDeductible>0.1</homeDeductible>
+        <homePropAddress>NM 262</homePropAddress>
+        <homePropType>5</homePropType>
+        <homeStructure>2000</homeStructure>
+        <umbrella>true</umbrella>
+    </homeOwners>
+    <homeOwners>
+        <polInsured>Ted Arroway</polInsured>
+        <polNumber>HO98541</polNumber>
+        <polOwner>1598542</polOwner>
+        <polPremium>5235.6</polPremium>
+        <homeContents>30</homeContents>
+        <homeDeductible>0.05</homeDeductible>
+        <homePropAddress>Southside BLK 7 LOT3</homePropAddress>
+        <homePropType>1</homePropType>
+        <homeStructure>300</homeStructure>
+        <umbrella>false</umbrella>
+    </homeOwners>
+    <homeOwners>
+        <polInsured>SE Haddon</polInsured>
+        <polNumber>HO63468</polNumber>
+        <polOwner>3000548</polOwner>
+        <polPremium>10587.25</polPremium>
+        <homeContents>300</homeContents>
+        <homeDeductible>0.1</homeDeductible>
+        <homePropAddress>The Dakota #600</homePropAddress>
+        <homePropType>4</homePropType>
+        <homeStructure>3000</homeStructure>
+        <umbrella>true</umbrella>
+    </homeOwners>
+    <homeOwners>
+        <polInsured>David Drumlin</polInsured>
+        <polNumber>HO98325</polNumber>
+        <polOwner>2344517</polOwner>
+        <polPremium>8879.45</polPremium>
+        <homeContents>80</homeContents>
+        <homeDeductible>0.05</homeDeductible>
+        <homePropAddress>"Watergate at Landmark #2525"""</homePropAddress>
+        <homePropType>3</homePropType>
+        <homeStructure>750</homeStructure>
+        <umbrella>true</umbrella>
+    </homeOwners>
+    <auto>
+        <polInsured>Ted Arroway</polInsured>
+        <polNumber>AU00657</polNumber>
+        <polOwner>1598542</polOwner>
+        <polPremium>736.42</polPremium>
+        <autoDeductible>500</autoDeductible>
+        <autoLimits>100</autoLimits>
+        <autoLimits>150</autoLimits>
+        <autoLimits>100</autoLimits>
+        <autoModel>Ford F150</autoModel>
+        <autoVin>FRD54187F150M5876</autoVin>
+        <autoYear>2015</autoYear>
+    </auto>
+    <auto>
+        <polInsured>Eleanor Arroway</polInsured>
+        <polNumber>AU22584</polNumber>
+        <polOwner>1564721</polOwner>
+        <polPremium>562.37</polPremium>
+        <autoDeductible>500</autoDeductible>
+        <autoLimits>100</autoLimits>
+        <autoLimits>150</autoLimits>
+        <autoLimits>100</autoLimits>
+        <autoModel>Jeep Wrangler</autoModel>
+        <autoVin>GMC85469TXT652149</autoVin>
+        <autoYear>2010</autoYear>
+    </auto>
+    <auto>
+        <polInsured>David Drumlin</polInsured>
+        <polNumber>AU46681</polNumber>
+        <polOwner>2344517</polOwner>
+        <polPremium>964.23</polPremium>
+        <autoDeductible>500</autoDeductible>
+        <autoLimits>150</autoLimits>
+        <autoLimits>200</autoLimits>
+        <autoLimits>150</autoLimits>
+        <autoModel>Mercedes-Benz G 550</autoModel>
+        <autoVin>MB9854BV4154W8524</autoVin>
+        <autoYear>2020</autoYear>
+    </auto>
+    <auto>
+        <polInsured>Palmer Joss</polInsured>
+        <polNumber>AU85211</polNumber>
+        <polOwner>2065422</polOwner>
+        <polPremium>516.28</polPremium>
+        <autoDeductible>1000</autoDeductible>
+        <autoLimits>75</autoLimits>
+        <autoLimits>100</autoLimits>
+        <autoLimits>75</autoLimits>
+        <autoModel>Honda Civic</autoModel>
+        <autoVin>GMC85469TXT652149</autoVin>
+        <autoYear>2010</autoYear>
+    </auto>
+    <auto>
+        <polInsured>Palmer Joss</polInsured>
+        <polNumber>AU85771</polNumber>
+        <polOwner>2065422</polOwner>
+        <polPremium>1103.27</polPremium>
+        <autoDeductible>250</autoDeductible>
+        <autoLimits>150</autoLimits>
+        <autoLimits>200</autoLimits>
+        <autoLimits>150</autoLimits>
+        <autoModel>BMW X3</autoModel>
+        <autoVin>BMW5471BV9854WR15</autoVin>
+        <autoYear>2019</autoYear>
+    </auto>
+</policys>

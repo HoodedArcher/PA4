@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <custFirstName>SE</custFirstName>
+        <custId>3000548</custId>
+        <custLastName>Haddon</custLastName>
+        <custTaxId>654863149</custTaxId>
+    </customer>
+    <customer>
+        <custFirstName>Eleanor</custFirstName>
+        <custId>1564721</custId>
+        <custLastName>Arroway</custLastName>
+        <custTaxId>552914733</custTaxId>
+    </customer>
+    <customer>
+        <custFirstName>Ted</custFirstName>
+        <custId>1598542</custId>
+        <custLastName>Arroway</custLastName>
+        <custTaxId>552411578</custTaxId>
+    </customer>
+    <customer>
+        <custFirstName>Palmer</custFirstName>
+        <custId>2065422</custId>
+        <custLastName>Joss</custLastName>
+        <custTaxId>123456789</custTaxId>
+    </customer>
+    <customer>
+        <custFirstName>David</custFirstName>
+        <custId>2344517</custId>
+        <custLastName>Drumlin</custLastName>
+        <custTaxId>223441587</custTaxId>
+    </customer>
+</customers>
